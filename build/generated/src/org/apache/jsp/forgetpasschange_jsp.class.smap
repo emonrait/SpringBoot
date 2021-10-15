@@ -1,0 +1,18 @@
+SMAP
+forgetpasschange_jsp.java
+JSP
+*S JSP
+*F
++ 0 forgetpasschange.jsp
+forgetpasschange.jsp
+*L
+2,16:44
+18:60,3
+19,28:63
+47,3:92
+49,5:95
+54,2:101
+55,12:103
+67:115,3
+68,4:118
+*E
